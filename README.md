@@ -57,7 +57,7 @@ Cerrar sesión → regresa a LoginView
 
 ---
 
-## 🔑 Credenciales de prueba
+## Credenciales de prueba
 | Usuario | Nombre | Contraseña |
 |---|---|---|
 | U001 | Ana Pérez | 1234 |
@@ -66,11 +66,5 @@ Cerrar sesión → regresa a LoginView
 
 ---
 
-## ▶️ Ejecución
-```bash
-python main.py
-
----
-## Funcionamiento y comprobación
-
+## Ejecución
 Al iniciar se muestra primero la pantalla de acceso; si los campos están vacíos o las credenciales son incorrectas aparece un aviso, y al ingresar datos válidos se abre el panel principal con pestañas que muestran los productos y usuarios cargados desde JSON mediante el servicio, mientras la opción de ventas se indica como funcionalidad pendiente. Al pulsar cerrar sesión se regresa al formulario de acceso dentro de la misma ventana, sin crear ventanas nuevas ni leer archivos directamente desde las vistas.
