@@ -4,7 +4,6 @@
 **Estudiante:** Merlinthon Wilfrido España Carbo  
 
 > Asignatura: Programación Orientada a Objetos
-> Enfoque: Separación de capas
 
 ---
 
